@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="button_text">Показать погоду</string>
+    <string name="et_hint_text">Введите название города или индекс</string>
+</resources>
